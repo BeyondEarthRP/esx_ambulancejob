@@ -38,3 +38,8 @@ dependencies {
 	'es_extended',
 	'esx_vehicleshop'
 }
+
+exports {
+  'OpenMobileAmbulanceActionsMenu'
+}
+
